@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=kulapard)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kulapard)](https://git.io/streak-stats)
 
 <!--
 **kulapard/kulapard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
